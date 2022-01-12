@@ -1,8 +1,8 @@
 ### Hi Everyone 👋
 I am Hoa. I am a former student of NEU and switching career to IT. 
 
-- 🌱 I’m currently learning Java at Techmaster
-- 👯 I’m looking for a new Java Job in Ha Noi.
+- 🌱 I’m currently working as Java developer at ITSOL
+- 👯 I learned Java Spring Boot at Techmaster Ha Noi
 - 📫 Pls reach me via:
 + Email: hoatrantcnh@gmail.com
 + Linkedln: https://www.linkedin.com/in/hoa-tran-39858816a/
